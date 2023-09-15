@@ -1,0 +1,6 @@
+##
+I'm looking for a skilled developer to modify my EA to be used in RANGE BREAK 100 AND 200, the EA Must close every orders when spike occurs.
+Currently it replaces orders after hitting SL so now i want it to be made for range breaks 100 and 200 it should automatically close every orders when spike occurs.
+For example if spike occurs while there was a buy position opened at -2 or +2 it should close at that position.
+
+##
